@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './App copy';
 import reportWebVitals from './reportWebVitals';
+
+
+// import Wrapper from './Wrapper.js';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
